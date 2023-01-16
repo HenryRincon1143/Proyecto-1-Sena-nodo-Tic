@@ -1,0 +1,2 @@
+Para que el programa corra con exito es importante Definir EN LLA LINEA 306  la Ruta donde se guardara el TXT.
+
